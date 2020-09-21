@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CurrencyRateGetter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CurrencyRateGetter_jar</output-path>
+    <root id="archive" name="CurrencyRateGetter.jar">
+      <element id="module-output" name="CurrencyRateGetter" />
+    </root>
+  </artifact>
+</component>
